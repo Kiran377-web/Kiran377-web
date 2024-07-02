@@ -2,7 +2,7 @@
 - 👀 I’m Web Developer 
 - 🌱 I’m currently learning web designing
 - 📫 You can contact me via mail : kiran.deep.kaur122003@gmail.com
-- 😄 You can also call me Kiran
+- 😄 Pronouns: she/her
 - ⚡ Hobbies : Reading, Trying new things
 
 <!---
